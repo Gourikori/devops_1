@@ -1,1 +1,1 @@
-print("Tis is 2nd file")
+print("this is 2nd file")
